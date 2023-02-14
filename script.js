@@ -151,5 +151,14 @@ const questions = [
         { text: 'Ganyu', correct: true },
         { text: 'Mona', correct: false }
       ]
+    },
+    {
+      question: 'Who usurped Lisa in Genshin?',
+      answers: [
+        { text: 'Beidou', correct: false },
+        { text: 'Raiden Shogun', correct: false },
+        { text: 'Shenhe', correct: true },
+        { text: 'Mona', correct: false }
+      ]
     }
  ]
